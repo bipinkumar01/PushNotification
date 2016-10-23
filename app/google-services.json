@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "332983517506",
+    "firebase_url": "https://flogin-1002.firebaseio.com",
+    "project_id": "flogin-1002",
+    "storage_bucket": "flogin-1002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332983517506:android:67ddaf1fcbc43619",
+        "android_client_info": {
+          "package_name": "com.bipin.androidpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332983517506-58ki4nsbu5hvsc65be77de9hp40i7pnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bipin.androidpushnotification",
+            "certificate_hash": "8C4CF790FDFBBE814AA48E1005641650702AFEF4"
+          }
+        },
+        {
+          "client_id": "332983517506-bpj09alpe0s9aob57ipb3nf84ov1nt0c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "332983517506-k61qgt48jgso01nc8q79gfpbfcs4it4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsVPoVgh1MqnoqsEpAUT3Fda9yCpSTgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332983517506-bpj09alpe0s9aob57ipb3nf84ov1nt0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
